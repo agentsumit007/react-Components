@@ -1,0 +1,64 @@
+{
+    "data": [
+        {
+            "id": "1",
+            "image": "https://resizing.flixster.com/z2O4BquUjrs9Yqkg86cPwl4uTCY=/fit-in/180x240/v2/https://resizing.flixster.com/xYGAolR7ksdDWhEXU09Vv9JQB0s=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzZiNWJhYWY1LWM5ODAtNGI3My04OWQ1LTUxOThjMzcyZTE3Yy5qcGc=",
+            "name": "INDIANA JONES AND THE DIAL OF DESTINY (2023)",
+            "rating": "69",
+            "review": "It isn't as thrilling as earlier adventures, but the nostalgic rush of seeing Harrison Ford back in action helps Indiana Jones and the Dial of Destiny find a few final bits of cinematic treasure.",
+            "synopsis": "Daredevil archaeologist Indiana Jones races against time to retrieve a legendary dial that can change the course of history.",
+            "starring": "Harrison Ford, Phoebe Waller-Bridge, Antonio Banderas, John Rhys-Davies",
+            "director": "James Mangold"
+        },
+        {
+            "id": "2",
+            "image": "https://resizing.flixster.com/1rOES0JBUQFTbIWFMsUSyC1ztI4=/fit-in/180x240/v2/https://resizing.flixster.com/DDToSwhHClBZGg_iBmbyfuEybas=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzc0MTM0MGM4LTg0ODItNGQyOC1hYzBkLTUzZjVhOTBlNDVmMy5qcGc=",
+            "name": "NO HARD FEELINGS (2023)",
+            "rating": "69",
+            "review": "This raunchy comedy often plays it disappointingly safe, but Jennifer Lawrence's comedic and dramatic chops ensure that the end result prompts No Hard Feelings.",
+            "synopsis": "On the brink of losing her childhood home, Maddie (Jennifer Lawrence) discovers an intriguing job listing: wealthy helicopter parents looking... [More]",
+            "starring": "Jennifer Lawrence, Andrew Barth Feldman, Laura Benanti, Natalie Morales",
+            "director": "Gene Stupnitsky"
+        },
+        {
+            "id": "3",
+            "image": "https://resizing.flixster.com/EzQJmsAVWaaiahVMRaZPWeIbgBQ=/fit-in/180x240/v2/https://resizing.flixster.com/N1dnUvL2FS7F9x090K-NlJXr-p4=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzMyNzc2ODYwLTJlMjYtNDgzNi05MmIwLWNiOTgzYzA4YjU0MC5qcGc=",
+            "name": "ASTEROID CITY (2023)",
+            "rating": "73",
+            "review": "Asteroid City is unlikely to win Wes Anderson many new converts, but those who respond to his signature style will find this a return to immaculately arranged form.",
+            "synopsis": "The itinerary of a Junior Stargazer/Space Cadet convention (organized to bring together students and parents from across the country for... [More]",
+            "starring": "Jason Schwartzman, Scarlett Johansson, Tom Hanks, Jeffrey Wright",
+            "director": "Wes Anderson"
+        },
+        {
+            "id": "4",
+            "image": "https://resizing.flixster.com/961D4qGq-s4AjIKIyawL8TaK0HI=/fit-in/180x240/v2/https://resizing.flixster.com/F8JH95OjUwzlqREEWnwBXd1Mrf8=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzJkZjg3MjI1LWU1YzgtNDZiMy05ZDY3LWFlNTMyOWVhZmRjMi5qcGc=",
+            "name": "THE FLASH (2023)",
+            "rating": "65",
+            "review": "The Flash is funny, fittingly fast-paced, and overall ranks as one of the best DC movies in recent years.",
+            "synopsis": "Worlds collide in The Flash when Barry uses his superpowers to travel back in time in order to change the... [More]",
+            "starring": "Ezra Miller, Michael Keaton, Sasha Calle, Michael Shannon",
+            "director": "Andy Muschietti"
+        },
+        {
+            "id": "5",
+            "image": "https://resizing.flixster.com/Ng2ftDTBxVfcH0wVP1WMmLSTwos=/fit-in/180x240/v2/https://resizing.flixster.com/Zb2d0atK4I6Ctp4ZCC0SsI7VvSQ=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzL2IxNzI1YTI2LWViY2UtNGM2ZS1iMjQ1LTI3Njk4MDNiNDdmMC5qcGc=",
+            "name": "RUBY GILLMAN, TEENAGE KRAKEN (2023)",
+            "rating": "67",
+            "review": " Ruby Gillman, Teenage Kraken is littered with too much flotsam and jetsam from better animated features to stand as a true original, but its inherent sweetness and lively style make for likable enough family entertainment.",
+            "synopsis": "Sweet, awkward 16-year-old Ruby Gillman (Lana Condor, To All the Boys I have Loved Before franchise) is desperate to fit in... [More]",
+            "starring": "Lana Condor, Toni Collette, Annie Murphy, Sam Richardson",
+            "director": "Kirk DeMicco"
+        },
+        {
+            "id": "6",
+            "image": "https://resizing.flixster.com/g6-ePdIQgPhNBou9uw0SKn8FNys=/fit-in/180x240/v2/https://resizing.flixster.com/PjEtd6YyyI56iFO2emBjqf6Y99A=/ems.cHJkLWVtcy1hc3NldHMvbW92aWVzLzI4OGNiZjBhLTZkN2ItNGNmOS1iMDhlLTdhNTJmODNhMmQxYy5qcGc=",
+            "name": "NIMONA (2023)",
+            "rating": "93",
+            "review": "Tapping a rich emotional vein with its splendid animation and thoughtful allegory, Nimona is a deeply lovable animated adventure.",
+            "synopsis": "When Ballister Boldheart (Riz Ahmed), a knight in a futuristic medieval world, is framed for a crime he didn't commit,... [More]",
+            "starring": "Chloë Grace Moretz, Riz Ahmed, Eugene Lee Yang, Jordan Gubian",
+            "director": "Nick Bruno, Troy Quane"
+        }
+    ]
+}

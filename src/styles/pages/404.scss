@@ -1,0 +1,30 @@
+.main-layout {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #1d1c1c;
+
+    .error {
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        flex-direction: column;
+
+        h1, h3 {
+            color: white;
+
+        }
+
+        h1 {
+            margin-bottom: 0px;
+            font-size: 8rem;
+        }
+
+        h3 {
+            margin-top: 10px;
+            font-size: 2rem;
+        }
+    }
+}

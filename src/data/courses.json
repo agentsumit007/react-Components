@@ -1,0 +1,68 @@
+{
+    "data": [
+        {
+            "collection": "",
+            "courseName": "The LeetCode Beginner's Guide",
+            "chapters": 4,
+            "items": 17,
+            "completion": 0,
+            "bgImage": "https://assets.leetcode.com/explore/cards/introduction-to-the-beginners-guide/img-1652222288.png"
+        },
+        {
+            "collection": "LeetCode's Interview Crash Course",
+            "courseName": "Data Structures and Algorithms",
+            "chapters": 13,
+            "items": 146,
+            "completion": 26,
+            "bgImage": "https://assets.leetcode.com/explore/cards/leetcodes-interview-crash-course-data-structures-and-algorithms/img-1663091244.png"
+        },
+        {
+            "collection": "Easy Collection",
+            "courseName": "Top Interview Questions",
+            "chapters": 9,
+            "items": 48,
+            "completion": 10,
+            "bgImage": "https://assets.leetcode.com/explore/cards/top-151-interview-questions/img"
+        },
+        {
+            "collection": "Detailed Explanation of",
+            "courseName": "Dynamic Programming The LeetCode Beginner's Guide The LeetCode Beginner's Guide The LeetCode Beginner's Guide",
+            "chapters": 6,
+            "items": 55,
+            "completion": 0,
+            "bgImage": "https://assets.leetcode.com/explore/cards/dynamic-programming/img.png"
+        },
+        {
+            "collection": "Introduction to Data Structure",
+            "courseName": "Arrays 101",
+            "chapters": 6,
+            "items": 31,
+            "completion": 100,
+            "bgImage": "https://static.vecteezy.com/system/resources/thumbnails/013/782/090/small_2x/beautiful-abstract-wave-technology-background-with-light-digital-effect-company-concept-eps10-free-vector.jpg"
+        },
+        {
+            "collection": "Detailed Explanation of",
+            "courseName": "SQL Language",
+            "chapters": 4,
+            "items": 36,
+            "completion": 0,
+            "bgImage": "https://assets.leetcode.com/explore/cards/sql-language/img-1657328656.png"
+        },
+        {
+            "collection": "Detailed Explanation of",
+            "courseName": "Graph",
+            "chapters": 6,
+            "items": 58,
+            "completion": 31,
+            "bgImage": "https://assets.leetcode.com/explore/cards/graph/img.png"
+        },
+        {
+            "collection": "Introduction to Algorithms",
+            "courseName": "Recursion I",
+            "chapters": 5,
+            "items": 21,
+            "completion": 100,
+            "bgImage": "https://assets.leetcode.com/explore/cards/recursion-i/img"
+        }
+    ]
+}

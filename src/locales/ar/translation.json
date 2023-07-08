@@ -1,0 +1,11 @@
+{
+    "translation": {
+        "Home": "بيت",
+        "Go to Home": "اذهب إلى الصفحة الرئيسية",
+        "Card": "بطاقة",
+        "This is a Card Component": "هذا مكون بطاقة",
+        "You can update/change the properties of this component by modifying the code in the file located at src/components/Card/my-card.js & styling file at src/styles/components/card.scss. Additionally, you can also add new properties within this file.": "يمكنك تحديث / تغيير خصائص هذا المكون عن طريق تعديل الكود في الملف الموجود في  بالإضافة إلى ذلك ، يمكنك أيضًا إضافة خصائص جديدة داخل هذا الملف.",
+        "Adding new components": "إضافة مكونات جديدة",
+        "Similarly you can add new components by creating a new folder within src/components and adding the component code in the newly created folder. You can also add new pages by creating a new folder within src/pages and adding the page code in the newly created folder.": "وبالمثل ، يمكنك إضافة مكونات جديدة عن طريق إنشاء مجلد جديد داخل src / المكونات وإضافة رمز المكون في المجلد الذي تم إنشاؤه حديثًا. يمكنك أيضًا إضافة صفحات جديدة عن طريق إنشاء مجلد جديد داخل  وإضافة رمز الصفحة في المجلد الذي تم إنشاؤه حديثًا."
+    }
+}

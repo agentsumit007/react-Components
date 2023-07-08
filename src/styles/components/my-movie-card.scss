@@ -1,0 +1,31 @@
+
+.movie-card {
+    border: 5px solid white;
+    padding: 15px 50px 50px 50px;
+}
+
+.bg-grey {
+    background-color: #393939;
+    color: white;
+}
+
+.image-movie {
+    width: 400px;
+    object-fit: cover;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-around;
+}
+
+.keep-font-in {
+    font-size: 2vh
+}
+.serial-num {
+    background-color: white;
+    color: black;
+    width: 70px;
+    height: 70px;
+    margin-bottom: 15px;
+}

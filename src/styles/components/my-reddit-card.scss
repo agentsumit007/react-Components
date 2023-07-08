@@ -1,0 +1,18 @@
+.icon {
+    width: 30px;
+}
+
+
+.post-image {
+    width: 15vw;
+    height: 150px;
+    object-fit: cover;
+    object-position: left;
+}
+
+
+.grid-post {
+    display: grid;
+    grid-template-columns:5fr 1fr;
+    grid-gap: 20px;
+}

@@ -1,0 +1,11 @@
+{
+    "translation": {
+        "Home": "Home English",
+        "Go to Home": "Go to Home",
+        "Card": "Card",
+        "This is a Card Component": "This is a Card Component",
+        "You can update/change the properties of this component by modifying the code in the file located at src/components/Card/my-card.js & styling file at src/styles/components/card.scss. Additionally, you can also add new properties within this file.": "You can update/change the properties of this component by modifying the code in the file located at src/components/Card/my-card.js & styling file at src/styles/components/card.scss. Additionally, you can also add new properties within this file.",
+        "Adding new components": "Adding new components",
+        "Similarly you can add new components by creating a new folder within src/components and adding the component code in the newly created folder. You can also add new pages by creating a new folder within src/pages and adding the page code in the newly created folder.": "Similarly you can add new components by creating a new folder within src/components and adding the component code in the newly created folder. You can also add new pages by creating a new folder within src/pages and adding the page code in the newly created folder."
+    }
+}

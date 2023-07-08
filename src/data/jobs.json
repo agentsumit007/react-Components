@@ -1,0 +1,70 @@
+{
+    "data": [
+        {
+            "profile": "Frontend Developer",
+            "company": "Weblozy",
+            "location": "Noida, Uttar Pradesh, India",
+            "workType": "Remote",
+            "postAge": "1 hour ago",
+            "alumni": 5,
+            "active": false,
+            "easy": true,
+            "image": "https://media.licdn.com/dms/image/C4D0BAQF0T8Oc_4p5JA/company-logo_100_100/0/1655445464286?e=1696464000&v=beta&t=dyvBZqV3wh6td5IoRn47I5kPm9taUWek4Jmwf0wzdas"
+        },
+        {
+            "profile": "Intern - QA Engineer",
+            "company": "Global Foundaries",
+            "location": "Bangalore Urban, Karnataka, India",
+            "workType": "On-site",
+            "postAge": "16 hours ago",
+            "alumni": 1,
+            "active": false,
+            "easy": false,
+            "image": "https://media.licdn.com/dms/image/D4E0BAQHSFD4YeIEDBg/company-logo_100_100/0/1681925661922?e=1696464000&v=beta&t=djbXAgtRtPWh2NjUO2THvEZ22WzJK7EV8saEMUPSEt0"
+        },
+        {
+            "profile": "WEB3 Blockchain Front End Developer",
+            "company": "Sustainability Economics",
+            "location": "Bengaluru, Karnataka, India",
+            "workType": "On-site",
+            "postAge": "5 hours ago",
+            "alumni": 0,
+            "active": true,
+            "easy": true,
+            "image": "https://media.licdn.com/dms/image/D560BAQEWYzEAiYO_nw/company-logo_100_100/0/1688382803122?e=1696464000&v=beta&t=-hppu5vj0vvY9IXhKHRlszDqPQRXvkYOcyDJqybszk8"
+        },
+        {
+            "profile": "Voyage Optimization Analyst",
+            "company": "Smart Ship Hub",
+            "location": "Pune, Maharashtra, India",
+            "workType": "On-site",
+            "postAge": "1 hour ago",
+            "alumni": 0,
+            "active": false,
+            "easy": false,
+            "image": "https://media.licdn.com/dms/image/C4D0BAQGU87GFqYkhwg/company-logo_100_100/0/1655444641092?e=1696464000&v=beta&t=VItychGSZs9qLaDaceEb4KeGzDfKqqimJsp0VqHzbao"
+        },
+        {
+            "profile": "Software developer",
+            "company": "Webority Technologies",
+            "location": "Ghaziabad, Uttar Pradesh, India",
+            "workType": "Remote",
+            "postAge": "51 minutes ago",
+            "alumni": 2,
+            "active": false,
+            "easy": false,
+            "image": "https://media.licdn.com/dms/image/C4D0BAQEdJH--_oorTw/company-logo_100_100/0/1612410744036?e=1696464000&v=beta&t=n6dv1mwKP2xHNeYcHKEr6zNMPQXG7NCZN1--mGmEnZk"
+        },
+        {
+            "profile": "Business Development Fresher",
+            "company": "Kcloud Technologies - World of Cloud",
+            "location": "Noida, Uttar Pradesh, India",
+            "workType": "Hybrid",
+            "postAge": "1 hour ago",
+            "alumni": 24,
+            "active": true,
+            "easy": false,
+            "image": "https://media.licdn.com/dms/image/D4D0BAQHM5-TOO2RsUw/company-logo_100_100/0/1688446700125?e=1696464000&v=beta&t=-zY1lAK2FpOWkRIDHr7_bSNdyCIMhyDPeDZySAqbspM"
+        }
+    ]
+}

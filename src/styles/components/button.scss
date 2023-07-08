@@ -1,0 +1,19 @@
+.btn {
+    border-radius: 6px;
+    width: fit-content;
+    padding: 10px;
+    font-size: 22px;
+    font-weight: 500;
+
+    &.primary {
+        background-color: var(--primary-1);
+        color: var(--white);
+        border-color: transparent;
+        &:hover {
+            background-color: var(--primary-2);
+        }
+        &:active {
+            background-color: var(--primary-active);
+        }
+    }
+}
